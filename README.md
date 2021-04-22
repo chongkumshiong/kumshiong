@@ -17,7 +17,7 @@ Way finding Milestones
 •	Ask for a rating 
 
 Order Food Milestones:
-•	Chatbot is able to respond to voice activated key words such as “bubble tea” and stores of bubble tea on its UI. Order is to made fully using voice commands. (UI needs to be designed and implemented). 
+•	Chatbot is able to respond to voice activated key words such as “hamburger” and stores of bubble tea on its UI. Order is to made fully using voice commands. (UI needs to be designed and implemented). 
 •	Demonstrate the ability to ask for a response again if the response is unclear/ Needs repetition or clarification.
 •	Show customer where is collection point and amount of payment to be made. 
 
