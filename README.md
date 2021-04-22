@@ -1,4 +1,4 @@
-##Current Project
+## Current Project
 
 A mall concierge robot that is able to interact with customers and to:
 1.	Way finding
